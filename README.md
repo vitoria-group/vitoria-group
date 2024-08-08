@@ -1,6 +1,6 @@
-<h2 align="left">Hello World . . . 👋 <br/>It's Vitoria <br/> Welcome </h2>
+<h1 align="left">Welcome . . . <br/>It's Vitoria </h1>
+<p align="left">why be good when you can be the best . . .</p>
 
-<br clear="both">
 
 <h3 align="left">Skills</h3>
 
@@ -77,9 +77,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
 </div>
-
-<p align="left">why be good when you can be the best . . .</p>
-
 <br clear="both">
 
 <h3 align="left">Contact Me</h3>
