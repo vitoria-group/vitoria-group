@@ -1,6 +1,5 @@
-<h1 align="left">Welcome . . . <br/>It's Vitoria </h1>
+<h1 align="left">Welcome . . . It's Vitoria </h1>
 <p align="left">why be good when you can be the best . . .</p>
-
 
 <h3 align="left">Skills</h3>
 
